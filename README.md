@@ -89,11 +89,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your-twitter-handle](https://twitter.com/your-twitter-handle) - email@example.com
-
-Project Link: [https://github.com/your-username/instagram-like-stories-poc](https://github.com/your-username/instagram-like-stories-poc)
-
-## Notas adicionales
+Luis P Llorente - luisperianezllorente@gmail.com
 
 1. **Replace placeholders**: Asegúrate de reemplazar los marcadores de posición como `your-username`, `your-twitter-handle`, y `email@example.com` con la información correcta.
 2. **Installation of additional dependencies**: Si estas dependencias (`shadcn/ui`, `tailwind-scrollbar-hide`, `tailwind-scroll-behavior`) no están instaladas en tu proyecto, asegúrate de ejecutarlas:
