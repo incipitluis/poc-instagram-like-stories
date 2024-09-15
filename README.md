@@ -24,15 +24,16 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 
 1. Clone the repo
 
-   git clone https://github.com/your-username/instagram-like-stories-poc.git
+   git clone https://github.com/incipitluis/poc-instagram-like-stories
 
 2. Navigate to the project directory
 
-cd instagram-like-stories-poc
+cd poc-instagram-like-stories
 Install NPM packages
 
 
 npm install
+
 ## Usage
 
 Start the development server
@@ -83,20 +84,7 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Contact
 
-Your Name - [@your-twitter-handle](https://twitter.com/your-twitter-handle) - email@example.com
+luisperianezllorente@gmail.com
 
-Project Link: [https://github.com/your-username/instagram-like-stories-poc](https://github.com/your-username/instagram-like-stories-poc)
-
-## Notas adicionales
-
-1. **Replace placeholders**: Asegúrate de reemplazar los marcadores de posición como `your-username`, `your-twitter-handle`, y `email@example.com` con la información correcta.
-2. **Installation of additional dependencies**: Si estas dependencias (`shadcn/ui`, `tailwind-scrollbar-hide`, `tailwind-scroll-behavior`) no están instaladas en tu proyecto, asegúrate de ejecutarlas:
-
-   ```sh
-   npm install @shadcn/ui tailwind-scrollbar-hide tailwind-scroll-behavior
